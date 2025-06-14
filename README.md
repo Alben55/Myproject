@@ -1,2 +1,3 @@
 # Myproject
-OTUS Project
+Albert Garyaev
+Graduation OTUS Project

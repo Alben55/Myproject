@@ -10,7 +10,7 @@ const config = {
   username: process.env.APP_USERNAME,
   getUserInfoURL: process.env.GETUSERINFO_URL,
   token: process.env.TOKEN,
-  getUserAvatar: process.env.GETUSERAVATAR_URL
+  getUserAvatar: process.env.GETUSERAVATAR_URL,
 };
 
 export default config;

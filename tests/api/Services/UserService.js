@@ -6,8 +6,8 @@ const UserService = {
     return apiClient.get(config.getUserInfoURL);
   },
   getUserAvatar() {
-    return apiClient.get(config.getUserAvatar)
-  }
+    return apiClient.get(config.getUserAvatar);
+  },
 };
 
 export default UserService;

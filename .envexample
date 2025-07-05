@@ -1,0 +1,15 @@
+TEST_API_URL=https://try.vikunja.io/api/v1/
+REGISTER_API_URL=https://try.vikunja.io/api/v1/register
+LOGIN_API_URL=https://try.vikunja.io/api/v1/login
+GETUSERINFO_URL=https://try.vikunja.io/api/v1/user
+GETUSERAVATAR_URL=https://try.vikunja.io/api/v1/user/settings/avatar
+BASE_URL=https://try.vikunja.io/
+CREATE_ACCOUNT_URL=https://try.vikunja.io/register
+FORGOT_ACCOUNT_URL=https://try.vikunja.io/get-password-reset
+LOGIN_EMAIL=Qwerty123@mail.ru
+LOGIN_PASSWORD=Qwerty123
+EMAIL=Qwer312@gmail.com
+LANGUAGE=en 
+PASSWORD=Qwerty123
+APP_USERNAME=Qwerty
+TOKEN=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlF3ZXJ0eTEyM0BtYWlsLnJ1IiwiZW1haWxSZW1pbmRlcnNFbmFibGVkIjpmYWxzZSwiZXhwIjoxNzUyMDAyOTU1LCJpZCI6MjksImlzTG9jYWxVc2VyIjp0cnVlLCJsb25nIjpmYWxzZSwibmFtZSI6IiIsInR5cGUiOjEsInVzZXJuYW1lIjoiUXdlcnR5In0.UaB5nRbfdlhVMvfRm_aojrVRUbYQ1dhzMj1IJ6nMWmw
